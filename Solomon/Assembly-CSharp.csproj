@@ -53,6 +53,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Src\Const\Message.cs" />
+     <Compile Include="Assets\Scripts\Src\Const\Tag.cs" />
+     <Compile Include="Assets\Scripts\Src\Util\Log.cs" />
+     <Compile Include="Assets\Scripts\Src\Util\Prefab.cs" />
+     <Compile Include="Assets\Scripts\Src\View\TitleView.cs" />
      <Compile Include="Assets\Scripts\testScript.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/solomon/Solomon/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
