@@ -6,9 +6,9 @@ namespace Util {
     public static class Log {
 
         static readonly string[] Levels = {
-            "INFO ",
-            "WARN ",
-            "DUMP "
+            "INFO",
+            "WARN",
+            "DUMP"
         };
 
         public static void info (string txt) {
