@@ -185,7 +185,7 @@ GameObject:
   - component: {fileID: 193964243}
   - component: {fileID: 193964245}
   - component: {fileID: 193964244}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BtnShop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -259,7 +259,7 @@ GameObject:
   - component: {fileID: 209824016}
   - component: {fileID: 209824018}
   - component: {fileID: 209824017}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: LabelMenu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -333,7 +333,7 @@ GameObject:
   - component: {fileID: 216809605}
   - component: {fileID: 216809607}
   - component: {fileID: 216809606}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BtnSummon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -407,7 +407,7 @@ GameObject:
   - component: {fileID: 218012289}
   - component: {fileID: 218012291}
   - component: {fileID: 218012290}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: MenuArea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -450,7 +450,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -481,7 +481,7 @@ GameObject:
   - component: {fileID: 369968371}
   - component: {fileID: 369968373}
   - component: {fileID: 369968372}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BackGround
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -521,7 +521,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.754717, g: 0.11747954, b: 0.11747954, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -633,7 +633,7 @@ GameObject:
   - component: {fileID: 561882847}
   - component: {fileID: 561882849}
   - component: {fileID: 561882848}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: MessageArea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -656,8 +656,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.7, y: 0.2}
-  m_AnchoredPosition: {x: 2.925, y: -0.0025096}
-  m_SizeDelta: {x: 5.85, y: -0.004982}
+  m_AnchoredPosition: {x: 1.3695, y: 0.025001}
+  m_SizeDelta: {x: 2.7391, y: 0.049995}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &561882848
 MonoBehaviour:
@@ -671,7 +671,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.248576, g: 0.30745783, b: 0.3962264, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -703,7 +703,7 @@ GameObject:
   - component: {fileID: 1084751412}
   - component: {fileID: 1084751411}
   - component: {fileID: 1084751410}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -755,8 +755,8 @@ Canvas:
   m_GameObject: {fileID: 1084751409}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
-  m_Camera: {fileID: 0}
+  m_RenderMode: 1
+  m_Camera: {fileID: 390762684}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -796,7 +796,7 @@ GameObject:
   - component: {fileID: 1246094127}
   - component: {fileID: 1246094129}
   - component: {fileID: 1246094128}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: test
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -870,7 +870,7 @@ GameObject:
   - component: {fileID: 1329405142}
   - component: {fileID: 1329405144}
   - component: {fileID: 1329405143}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -892,8 +892,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 4}
-  m_SizeDelta: {x: 690, y: 500}
+  m_AnchoredPosition: {x: -7, y: -0.0000013113}
+  m_SizeDelta: {x: 684.1, y: 488.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1329405143
 MonoBehaviour:
@@ -938,7 +938,7 @@ GameObject:
   - component: {fileID: 1493787400}
   - component: {fileID: 1493787402}
   - component: {fileID: 1493787401}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BtnReady
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1012,7 +1012,7 @@ GameObject:
   - component: {fileID: 1763998098}
   - component: {fileID: 1763998100}
   - component: {fileID: 1763998099}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: MapArea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1035,8 +1035,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.2}
   m_AnchorMax: {x: 0.7, y: 1}
-  m_AnchoredPosition: {x: 2.9249878, y: 0}
-  m_SizeDelta: {x: 5.85, y: 0}
+  m_AnchoredPosition: {x: 1.3695, y: -0.02502}
+  m_SizeDelta: {x: 2.739, y: -0.049927}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1763998099
 MonoBehaviour:
@@ -1081,7 +1081,7 @@ GameObject:
   - component: {fileID: 1825020338}
   - component: {fileID: 1825020340}
   - component: {fileID: 1825020339}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BtnEdit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1154,6 +1154,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1895912089}
   - component: {fileID: 1895912090}
+  - component: {fileID: 1895912091}
   m_Layer: 0
   m_Name: MenuView
   m_TagString: Untagged
@@ -1185,6 +1186,98 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f3e0ef91b4af3145b6304f40878b9c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!120 &1895912091
+LineRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1895912088}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 2100000, guid: caf9e99c826ce35478bfc850380f5ad5, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Positions:
+  - {x: 3.65, y: -5, z: 0}
+  - {x: 3.65, y: -5, z: 0}
+  m_Parameters:
+    serializedVersion: 2
+    widthMultiplier: 0.1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 0, g: 0, b: 0, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    generateLightingData: 0
+  m_UseWorldSpace: 1
+  m_Loop: 0
 --- !u!1 &1915024012
 GameObject:
   m_ObjectHideFlags: 0
@@ -1195,7 +1288,7 @@ GameObject:
   - component: {fileID: 1915024013}
   - component: {fileID: 1915024015}
   - component: {fileID: 1915024014}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BtnExit
   m_TagString: Untagged
   m_Icon: {fileID: 0}

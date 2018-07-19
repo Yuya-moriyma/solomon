@@ -125,7 +125,7 @@ GameObject:
   - component: {fileID: 342090310}
   - component: {fileID: 342090313}
   - component: {fileID: 342090312}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BtnContinue
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -282,7 +282,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &651263334
 GameObject:
@@ -294,7 +294,7 @@ GameObject:
   - component: {fileID: 651263335}
   - component: {fileID: 651263337}
   - component: {fileID: 651263336}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: TitleLabel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -369,7 +369,7 @@ GameObject:
   - component: {fileID: 764315061}
   - component: {fileID: 764315060}
   - component: {fileID: 764315059}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -421,8 +421,8 @@ Canvas:
   m_GameObject: {fileID: 764315058}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
-  m_Camera: {fileID: 0}
+  m_RenderMode: 1
+  m_Camera: {fileID: 1875108235}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -461,7 +461,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1092825793}
   - component: {fileID: 1092825792}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: TitleView
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -490,7 +490,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1596561268
 GameObject:
@@ -568,7 +568,7 @@ GameObject:
   - component: {fileID: 1860815428}
   - component: {fileID: 1860815427}
   - component: {fileID: 1860815426}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BtnNewGame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -813,7 +813,7 @@ GameObject:
   - component: {fileID: 2118063562}
   - component: {fileID: 2118063564}
   - component: {fileID: 2118063563}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BackGround
   m_TagString: BaseArea
   m_Icon: {fileID: 0}
