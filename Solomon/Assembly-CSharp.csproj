@@ -53,9 +53,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Src\Const\FlameUnit.cs" />
+     <Compile Include="Assets\Scripts\Src\Const\Limit.cs" />
      <Compile Include="Assets\Scripts\Src\Const\Message.cs" />
+     <Compile Include="Assets\Scripts\Src\Const\Name\Menu.cs" />
+     <Compile Include="Assets\Scripts\Src\Const\Position.cs" />
      <Compile Include="Assets\Scripts\Src\Const\Tag.cs" />
      <Compile Include="Assets\Scripts\Src\Controller\TitleController.cs" />
+     <Compile Include="Assets\Scripts\Src\Util\Component.cs" />
      <Compile Include="Assets\Scripts\Src\Util\Log.cs" />
      <Compile Include="Assets\Scripts\Src\Util\Prefab.cs" />
      <Compile Include="Assets\Scripts\Src\View\MenuView.cs" />
