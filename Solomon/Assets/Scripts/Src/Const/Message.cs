@@ -9,5 +9,6 @@ namespace Const {
         public static readonly string MENU_BUTTON_SHOP = "SHOP";
         public static readonly string MENU_BUTTON_EDIT = "EDIT";
         public static readonly string MENU_BUTTON_EXIT = "EXIT";
+        public static readonly string NEXT_AREA_MESSAGE = "The next floor is {0} ";
     }
 }
